@@ -1,5 +1,6 @@
 # Sioux Falls Generator Pros
 
+
 Static rank-and-rent lead gen site for the Sioux Falls, SD generator installation/repair niche — the same market as your Henderson site (`hendersongeneratorpros.com`), simplified down to match the leaner structure of Denver Dance Floors and Norman Container. Plain HTML/CSS/JS, no build step, no framework, no CMS.
 
 ## Assumptions made building this (verify before launch)
