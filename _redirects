@@ -1,0 +1,13 @@
+# Sioux Falls Generator Pros - legacy .html URL cleanup
+# Same missing-_redirects bug as hendersongeneratorpros.com and treasurecoastretainingwall.com, fixed 2026-08-23.
+# GSC confirmed: Page with redirect - example /index.html, Not Started validation.
+
+/index.html / 301
+/about.html /about 301
+/contact.html /contact 301
+/privacy-policy.html /privacy-policy 301
+/terms.html /terms 301
+/services/index.html /services/ 301
+/services/whole-home-generator-installation.html /services/whole-home-generator-installation 301
+/services/transfer-switch-installation.html /services/transfer-switch-installation 301
+/services/generator-repair-maintenance.html /services/generator-repair-maintenance 301
