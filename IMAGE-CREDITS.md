@@ -10,6 +10,7 @@ All photos are hotlinked directly from Unsplash's CDN (`images.unsplash.com`) an
 | Repair & Maintenance service page | iuliu illes (@illes_cristi) | https://unsplash.com/photos/ji-HV2CNNBY |
 | Whole-home installation (homepage + service page) | Jamar Penny (@pennypicsvideos) | https://unsplash.com/photos/ZgmGq_eFmUs |
 | Transfer switch service page | Ben Koorengevel (@benkoorengevel) | https://unsplash.com/photos/vKecFeICy7s |
+| Generac installation service page | Luke Gallegos (@lukeadventure) | https://unsplash.com/photos/Y8_IakA95ko |
 
 **Before launch, consider:**
 - Downloading these images and self-hosting them in an `/images` folder instead of hotlinking, so the site isn't dependent on Unsplash's CDN staying up.
